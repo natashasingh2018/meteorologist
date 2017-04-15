@@ -46,7 +46,7 @@ https://developers.google.com/maps/documentation/geocoding/#GeocodingResponses
 
 The first example they give is
 
-    http://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA
+    https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en
 
 (I have removed the part about the API key from the end of the URL; we don't need one, for now.) Paste that URL into a Chrome tab; you should see something like this:
 
